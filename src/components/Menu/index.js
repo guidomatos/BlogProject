@@ -2,6 +2,7 @@ import React from 'react';
 import './style.css';
 import Card from '../UI/Card';
 import Logo from '../Logo';
+import NavBar from '../NavBar';
 
 const Menu = (props) => {
   return(
@@ -10,6 +11,7 @@ const Menu = (props) => {
             <div style={{ padding: '50px 0' }}>
                 <Logo />
             </div>
+            <NavBar/>
         </Card>
     </div>
    )
