@@ -1,4 +1,5 @@
 import React from 'react';
+import Footer from '../Footer';
 import './style.css';
 
 const Layout = (props) => {
@@ -7,6 +8,7 @@ const Layout = (props) => {
             <div className="container">
                 {props.children}
             </div>
+            <Footer/>
         </>
     )
 }
