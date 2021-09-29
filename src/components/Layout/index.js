@@ -1,6 +1,6 @@
 import React from 'react';
 import Footer from '../Footer';
-import SideBar from '../Sidebar';
+import SideBar from '../SideBar';
 import './style.css';
 
 const Layout = (props) => {

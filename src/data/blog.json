@@ -1,0 +1,54 @@
+{
+    "data" : [
+        {
+            "id" : 1,
+            "blogCategory": "Tecnología",
+            "blogTitle": "Millones de dispositivos inteligentes perderán acceso a internet a partir de octubre",
+            "slug": "dispositivos_perderan_acceso_internet",
+            "postedOn": "Set 28, 2021",
+            "author": "La República",
+            "blogImage": "https://larepublica.pe/resizer/XvLZ36fWQtS3Imun5iFHIDMaUw8=/480x282/top/smart/cloudfront-us-east-1.images.arcpublishing.com/gruporepublica/2MSFCPDLYRD7XIA37ZQ4QGXYJU.png",
+            "blogText": "Un antiguo certificado está a punto de caducar, lo que provocará que varios equipos, incluidos teléfonos, computadoras y consolas de videojuegos, no puedan acceder a la web. A partir de esta semana, diversos aparatos electrónicos perderán la capacidad de conectarse a internet debido al vencimiento de un antiguo certificado HTTPS que se utiliza en una amplia gama de dispositivos, sistemas operativos y navegadores."
+        },
+        {
+            "id": 2,
+            "blogCategory": "Tecnología",
+            "blogTitle" : "Ahorrar batería en el móvil mientras usas WhatsApp Web es posible siguiendo estos pasos",
+            "slug": "ahorrar_bateria_whatsapp_blog_post",
+            "postedOn": "Set 28, 2021",
+            "author": "NTN 24",
+            "blogImage": "https://imagenesntn24.canalrcn.com/ImgNtn24/55555555555.jpg",
+            "blogText": "Abrimos nuestra app móvil de WhatsApp. * Pulsamos el botón de menú situado en la parte superior derecha de la aplicación e identificado con tres puntos verticales. * Clicamos en la opción Dispositivos vinculados. * Entramos en la sección Versión beta para varios dispositivos. * Una vez dentro de ella, clicamos en el recuadro verde que está en la parte inferior de la app que pone ‘Unirme a la versión beta’. * Ahora, volvemos atrás y debajo de la sección Versión beta para varios dispositivos nos aparece la palabra ‘Participante’, lo que quiere decir que hemos realizado el paso anterior de forma correcta. * A continuación, lo que tenemos que hacer es pulsar en la opción ‘Vincular un dispositivo’, introducir nuestra contraseña, pin o huella por motivos de seguridad y escanear con nuestro móvil el código QR que nos aparece al abrir WhatsApp Web en nuestro PC. * Una vez hecho esto, ya nos aparecerá el ordenador u ordenadores que hayamos vinculado justo debajo de la sección ‘Estado del dispositivo’ con la información del navegador que usamos, el sistema operativo con el que trabajamos y la última hora de conexión."
+        },
+        {
+            "id": 3,
+            "blogCategory": "Tecnología",
+            "blogTitle": "En estos celulares dejará de funcionar WhatsApp en noviembre",
+            "slug": "celulares_dejaran_funcionar_whatsapp",
+            "postedOn": "Set 28, 2021",
+            "author": "Altavoz",
+            "blogImage": "https://i2.wp.com/www.altavoz.pe/media/2021/09/celulares-5.jpg?w=1080&ssl=1",
+            "blogText": "En el próximo mes de noviembre WhatsApp ya no funcionará en varios teléfonos celulares, lo que significa que obligará a los usuarios a cambiar de smartphones por uno más nuevo que sí permite la instalación y uso de todas las funcionalidades de la aplicación. Esta es una práctica más común de lo que se cree, llega un momento en que los desarrolladores no pueden seguir dando soporte a dispositivos muy antiguos con sistema operativos ya desactualizados, y en este caso es lo que va a ocurrir en apenas 2 meses. iOS no se libra de esta posibilidad, es decir, que también hay dispositivos iPhone con una determinada versión de iOS que ya no pueden actualizar WhatsApp o que su versión ha quedado caducada y no puede usarse, aunque de momento no hay datos de terminales que quedan fuera."
+        },
+        {
+            "id": 4,
+            "blogCategory": "Tecnología",
+            "blogTitle": "Windows Media Player tendrá un digno sucesor en Windows 11",
+            "slug": "sucesor_wmp_en_windows11",
+            "postedOn": "Set 28, 2021",
+            "author": "Microsofters",
+            "blogImage": "https://microsofters.com/wp-content/uploads/2021/09/wmp-1021x580.jpg",
+            "blogText": "Windows 11 está a punto de ver la luz y estamos emocionados con todo lo que lo rodea. Desde que fue anunciado en junio, Microsoft no ha parado de compartir pinceladas sobre todas las novedades que están por venir a su nuevo sistema operativo. Entre estas una ha destacado por encima de toda: la renovación de las aplicaciones del sistema. Hoy, de forma involuntaria, Microsoft parece haber revelado una nueva y sorprendente aplicación: Media Player. Ahora, con Windows 11, parece que Microsoft quiere volver a los orígenes. Durante el podcast del Programa Windows Insider, algunos usuarios han avistado un nuevo reproductor multimedia bautizado como Media Player. No tenemos más información al respecto pero todo hace presagiar que estamos ante una aplicación que sustituya finalmente al antiguo y todavía presente Windows Media Player."
+        },
+        {
+            "id": 5,
+            "blogCategory": "Tecnología",
+            "blogTitle": "Google: cómo eliminar toda tu información y no recibir anuncios no deseados",
+            "slug": "google_eliminar_info_no_recibir_anuncios",
+            "postedOn": "Set 28, 2021",
+            "author": "Mag. El Comercio",
+            "blogImage": "https://elcomercio.pe/resizer/3ic9zHYiWYd1rlMTA7GN2dJ0QDc=/580x330/smart/filters:format(jpeg):quality(75)/cloudfront-us-east-1.images.arcpublishing.com/elcomercio/EOUGKSAF7RHIZJO654U4P5HZAU.jpg",
+            "blogText": "¿Te aburren los anuncios de Google? ¿Ocupan toda la pantalla? aprende a eliminar tu actividad para que no te aparezca más publicidad de lo que estás buscando en el navegador. Cuándo quieres buscar algo por internet lo haces a través del navegador más utilizado de todo el mundo, nos referimos a Google, esa conocida plataforma que te permite encontrar cualquier tipo de información relacionada al tema de tu interés. ¿Sabías que la compañía detecta todos tus movimientos en la web? Y la parte más interesante es que al aprobar sus políticas de privacidad también aceptaste lo siguiente: “Cuando usas los servicios de Google, nos confías tu información”. Googlealmacena todas tus búsquedas en una pestaña denominada ‘Mi actividad’ o ‘My activity’, por ello, hoy te enseñaremos los pasos para que puedas eliminar toda la información que se va acumulando aquí, así la compañía de la gran ‘G’ no te volverá a mostrar esos incómodos anuncios que aparecen cada cierto tiempo después de indagar algo por la web."
+        }
+    ]
+}
