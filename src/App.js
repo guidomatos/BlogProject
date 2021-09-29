@@ -2,7 +2,8 @@ import React from 'react';
 import './App.css';
 import Header from './components/Header';
 import Menu from './components/Menu';
-import { BrowserRouter as Router } from 'react-router-dom';
+import Home from './pages/Home';
+import { BrowserRouter as Router, Route } from 'react-router-dom';
 
 function App() {
   return (
@@ -10,6 +11,7 @@ function App() {
       <div className="App">
            <Header />
            <Menu />
+           <Route path="/" exact component={Home} />
       </div>
     </Router>
   );
